@@ -27,7 +27,7 @@
         HFS.GreetUser.init();
 
         var globalUrls = {
-          results: "https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_Landing_Page/members/landingPage.html#/",
+          results: "https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_PowerSearch_Page/members/results.html#/",
           advancedSearch: "https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_AdvancedSearch_Page/members/advancedSearch.html#/",
           basicSearch: "",
           login: "https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_Landing_Page/members/gateway/logout",
