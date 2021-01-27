@@ -1,6 +1,6 @@
 //Found Method to Replace URL Pattern from Manheim Details Webpage with my Copy Webpage
     //at https://stackoverflow.com/questions/1789181/jquery-replace-part-of-a-url
-    $('div.uhf-responsive > header > div.uhf-logo a').attr('href', 'file:///C:/Users/bjros/OneDrive/Desktop/Projects/Auto_Mart_USA_GitHub/Auto_Mart_USA_Landing_Page/members/landingPage.html');
+    $('div.uhf-responsive > header > div.uhf-logo a').attr('href', 'https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_Landing_Page/members/landingPage.html#/');
 
     $('div.uhf-responsive > header > div.uhf-menu--primary uhf-menu--offscreen uhf-accordion > div.uhf-panel--buy uhf-accordion__section > div.uhf-accordion__panel > div.uhf-accordion__panel__drawer > div.uhf-menu__group uhf-menu__group--1 > div.uhf-menu__category > ul.uhf-menu__category__items > li.uhf-menu__category__item a').each(function(){
       $(this).attr('href', $(this).replace('https://members.manheim.com/members/results#', 'https://kotr9001.github.io/Auto_Mart_USA_GitHub/Auto_Mart_USA_PowerSearch_Page/members/results.html#'));
