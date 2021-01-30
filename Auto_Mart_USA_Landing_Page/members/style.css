@@ -8,7 +8,7 @@
 .bid-widget__label, .bid-widget__value, .bid-widget__label.bid-widget__label--50, .InLaneBox__container, 
 .Banner__container, .mui-row.mui-row--flex.border-bottom.seller-info-container,
 .CollapsibleDetail__container.not-collapsible, .bid-widget__value--bold, 
-.BidWiget__header-logos-and-info.show--flex.space-between.no-wrap.flex-align--end {
+.BidWiget__header-logos-and-info.show--flex.space-between.no-wrap.flex-align--end, .section.section--fav-loc {
     visibility:hidden;
 };
 
